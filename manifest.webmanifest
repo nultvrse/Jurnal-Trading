@@ -1,17 +1,1 @@
-{
-  "name": "Khusnul Trading Journal",
-  "short_name": "Trading Journal",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#eff6ff",
-  "theme_color": "#0369a1",
-  "description": "Installable trading journal app",
-  "icons": [
-    {
-      "src": "/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"Trading Jurnal","short_name":"Trading Jurnal","start_url":"/","display":"standalone","background_color":"#e0f2fe","theme_color":"#0369a1","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}]}
