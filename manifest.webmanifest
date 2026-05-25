@@ -1,0 +1,17 @@
+{
+  "name": "Khusnul Trading Journal",
+  "short_name": "Trading Journal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#0369a1",
+  "description": "Installable trading journal app",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
