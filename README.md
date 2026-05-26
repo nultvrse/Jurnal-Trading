@@ -1,23 +1,22 @@
-# Khusnul Trading Journal
+# Trading Journal Final Update
 
-Installable PWA trading journal.
+Fitur update:
+- Weekly Performance di dashboard.
+- Popup + Tambah Trade langsung dari dashboard.
+- Theme baru: Dreamwave, Cotton Candy, Lavender Nebula, Arctic Steel.
+- Multi screenshot upload.
+- Export PDF report lewat Print / Save as PDF.
+- Psychology Insight, Market Behavior Insight, Trading Coach Review.
+- Edit trade dan hapus trade.
+- PWA installable.
 
-## Cara pakai cepat
-1. Install Node.js.
-2. Buka folder ini di VS Code/terminal.
-3. Jalankan:
-   ```bash
-   npm install
-   npm run dev
-   ```
-4. Untuk build:
-   ```bash
-   npm run build
-   ```
+Cara update ke GitHub/Vercel:
+1. Extract zip ini.
+2. Upload semua isi folder ke root repository GitHub.
+3. Replace file lama jika diminta.
+4. Klik Commit changes.
+5. Vercel akan auto-deploy.
 
-## Firebase Login
-Login Google/email sudah disiapkan, tapi kamu perlu isi `firebaseConfig` di `src/main.jsx`.
-Kalau belum diisi, app tetap bisa dipakai offline/local tanpa login.
-
-## Supaya bisa di-install di HP
-Deploy ke Vercel/Netlify, buka linknya di Chrome, lalu pilih **Install App** / **Add to Home Screen**.
+Catatan:
+- Project ini menggunakan Tailwind CSS.
+- Pastikan tailwind.config.js dan postcss.config.js ikut terupload.
